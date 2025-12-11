@@ -1,0 +1,102 @@
+SPORTS,#genre#
+Sports,#genre#
+SPORTS,#genre#
+Sports,#genre#
+810 Astro Grandstand FHD,https://xlb1.layarkacatv.me/ottmy1/7Suu4386Cd/5.ts
+SPORTS,#genre#
+Sports,#genre#
+SPORTS,#genre#
+Sports,#genre#
+DAZN 1 Bar DE ((Germany)),https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+DAZN 2 Bar DE ((Germany)),https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+WWE Network,https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium376/mono.m3u8
+FOX Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
+MUTV ((United Kingdom)),https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium377/mono.m3u8
+LFC TV ((United Kingdom)),https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8
+Unifi Sports,https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
+MALAYSIA,#genre#
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+Dunia Sinema,https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+Parlimen Malaysia,https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+Parlimen Malaysia,https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
+FILEM MANTAP,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+LAWAK SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+DRAMA HOTSPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+TRAVEL & TASTE,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+Oh My Ceria!,https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
+INDIAN,#genre#
+BollywoodHD Movies,ttps://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+BollywoodClassic Movies,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+CHINESE,#genre#
+KOREAN,#genre#
+MOVIES,#genre#
+DOCUMENTARY,#genre#
+ENTERTAINMENT,#genre#
+KIDS,#genre#
+ZooMoo Kids,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+ANIMAX,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+NEWS,#genre#
+SINGAPORE,#genre#
+Channel 5,https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+Channel 5,https://tinyurl.com/2c3bacne
+Channel 8 (Server 1),https://tinyurl.com/577pp6pu
+Channel 8 (Server 2),https://tinyurl.com/f588hzrr
+Channel 8 (Server 3),https://tinyurl.com/4zrxajw5
+Channel U,https://tinyurl.com/4mj9zm9m
+Channel Suria,https://tinyurl.com/3rs3n23f
+Channel Vasantham,https://tinyurl.com/25zf7k62
+SPORT 1 (SGP),https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+SPORT 2 (SGP),https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+Animax,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+GEM,https://t.ly/HpvGO
+Rock Action,https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+Global Trekker,https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
+meWATCH 1,https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+meWATCH 2,https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+meWATCH oktolidays,https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+RADIO,#genre#
+KBS World Radio,https://hls.rastream.com/astro-kbs-world
+Boom Radio,https://hls.rastream.com/astro-boom-radio
+Red Radio,https://hls.rastream.com/astro-red-radio
+RAKITA,https://23683.live.streamtheworld.com/RAKITAAAC.aac
+Best Of TikTok,http://node-10.zeno.fm:80/6cf3bsmbyf9uv
+Melayu Klasik,http://node-17.zeno.fm:80/s93mzhh7yf9uv
+Hot FM,https://mediaprima.rastream.com/mediaprima-hotfm
+Hot FM (YouTube Live),https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+Buletin FM,https://mediaprima.rastream.com/mediaprima-koolfm
+Fly FM,https://mediaprima.rastream.com/mediaprima-flyfm
+8FM,https://mediaprima.rastream.com/mediaprima-onefm
+8FM (YouTube Live),https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
+Molek FM,https://mediaprima.rastream.com/mediaprima-molekfm
+Molek FM (YouTube Live),https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
+HITZ,https://stream.rcs.revma.com/488kt4sbv4uvv/4_wz3vwwfr778l02/playlist.m3u8
+MY,https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
+LITE,https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Lite.m3u8
+MIX,https://stream.rcs.revma.com/v5pq3htbv4uvv/1_1iq54zaftd1pn02/playlist.m3u8
+ERA,https://stream.rcs.revma.com/crec9cmbv4uvv/5_169p6814wdxdj02/playlist.m3u8
+ERA (YouTube Live),https://stream.rcs.revma.com/crec9cmbv4uvv/5_169p6814wdxdj02/playlist.m3u8
+SINAR,https://stream.rcs.revma.com/azatk0tbv4uvv/5_38voejof20x202/playlist.m3u8
+MELODY,https://n07a-eu.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjFwRjLEAEt28uBBwa5thng
+GEGAR,Request URL:
+Nasional FM,https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+AI FM,https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC
+ASYIK FM,https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
+Astro Awani Radio,https://d37ey7ubht2hh2.cloudfront.net/out/v1/2d4a3d04aa404f3f8860da4a3ae25817/index_2.m3u8
+group-title="RADIO" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",Radio IKIM,https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=656f3685170c9d84_563629_0cAwv1Pr_MTAzLjIxLjgxLjM6ODA!_0000000hbXA&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDIzNTA4NTYsImV4cCI6MTcwMjQzNzI1Nn0.fRRpdFMfBhEICYhCvDfljDMy1Tns1lYJU-OSHZ4tWV0&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=afac2f3d6061e960167fe755466b0eab
+INDONESIA,#genre#
+TVKU (720p),http://103.30.1.14:8080/hls/live.m3u8
+Trans7 (720p),https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+Trans TV (720p),https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+Bioskop,https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+Dunia Lain,https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+Flik ((Maintenance)),https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+Citra Drama,https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+Indosiar HD,https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+Magna Channel (1080p) [Not 24/7],https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+Inspira TV (720p) [Not 24/7],https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+Ficom Channel (720p),https://v3.siar.us/ficomchannel/live/playlist.m3u8
+CNBC INDONESIA (720p),https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+Bandung TV (360p),http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+Banten TV (720p) [Not 24/7],https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+Mentari TV,https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
